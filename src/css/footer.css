@@ -33,6 +33,10 @@ padding: 40px 20px;
 
 .footer-logo {}
 
+.footer-logo-icon {
+  fill: #fbfbfb;
+
+}
 .footer-text {
   font-weight: 500;
     font-size: 14px;
@@ -90,8 +94,12 @@ padding: 40px 20px;
   align-items: flex-end;
   justify-content: flex-start;
   flex-direction: row;
-  gap: 49px;}
+  gap: 49px;
+}
   
+.margin {
+  margin: 2px 0 2px 4px;
+}
 
 .footer-privacy-item {
 font-weight: 500;
@@ -99,5 +107,12 @@ font-weight: 500;
   line-height: 1.16667;
   letter-spacing: -0.01em;
   color: rgba(251, 251, 251, 0.5);
-  
-}
+ }
+
+ .footer-policy-list {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 8px;
+ }
