@@ -46,6 +46,6 @@
     url(../img/hero/hero-img-mob-1x.jpg);
   background-repeat: no-repeat;
   background-position: 50% 100%;
-  /* background-size: auto 370px;
-  position: relative; */
+  background-size: auto 370px;
+  position: relative;
 }
