@@ -53,7 +53,7 @@ p {
 
 @media screen and (min-widht: 375px) {
   .container {
-    max-width: 375px;
+    width: 375px;
   }
 }
 @media screen and (min-widht: 768px) {
@@ -61,6 +61,7 @@ p {
     width: 768px;
   }
 }
+
 @media screen and (min-widht: 1280px) {
   .container {
     width: 1280px;
