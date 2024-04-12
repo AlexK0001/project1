@@ -10,14 +10,14 @@
   flex-direction: column;
   gap: 20px;
 }
-
+/* 
 .hero-container {
   display: flex;
   align-items: center;
   justify-content: flex-start;
   flex-direction: column;
   gap: 40px;
-}
+} */
 
 .hero-subtitle {
   font-weight: 600;
